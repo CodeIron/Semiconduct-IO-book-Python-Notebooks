@@ -1,5 +1,4 @@
 # Semiconduct-IO-book-Python-Notebooks
-Semiconductor-Opto
 
 Jupyter Notebooks for the book: Semiconductor Integrated Optics for Switching Light 2nd Edition
 
