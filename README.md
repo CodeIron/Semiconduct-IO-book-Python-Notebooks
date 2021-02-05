@@ -1,6 +1,6 @@
 # Semiconduct-IO-book-Python-Notebooks
 
-Jupyter Notebooks for the book: "Semiconductor Integrated Optics for Switching Light" 2nd Edition
+Python Jupyter Notebooks for the book: "Semiconductor Integrated Optics for Switching Light" 2nd Edition
 
 Charlie Ironside
 
